@@ -1,0 +1,15 @@
+{
+  "name": "easy-mock",
+  "version": "1.0.0",
+  "description": "tiny easy mock server",
+  "keywords": ["easy","mock","local","test environment","aenv","background","block","silent","server"],
+  "email": "yangxuanxing@gmail.com",
+  "dependencies": {
+  	"silently-run": "1.*",
+  	"easy-node-server": "1.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:518yxx/easy-mock.git"
+  }
+}
